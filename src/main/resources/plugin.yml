@@ -1,0 +1,11 @@
+name: jaxclipsecore
+main: com.jaxclipse.core.jaxclipsecore
+version: 0.1
+
+commands:
+   jaxclipse_kit:
+      description: A jaxclipse Kit Command
+      usage: /<command> 
+   jaxclipse_ext:
+      description: A jaxclipse Kit Command
+      usage: /<command> 
